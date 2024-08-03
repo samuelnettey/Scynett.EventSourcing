@@ -2,7 +2,7 @@
 
 namespace Scynett.Domain.Abstractions;
 
-public abstract class HasDomainEventsBase
+public abstract class HasDomainEvents
 {
     private readonly List<DomainEvent> _domainEvents = new();
     [NotMapped]
