@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Scynett.Domain.Abstractions;
+namespace Sn33.Domain.Abstractions;
 
 public abstract class HasDomainEvents
 {

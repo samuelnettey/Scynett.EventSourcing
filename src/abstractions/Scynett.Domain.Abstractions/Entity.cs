@@ -1,4 +1,4 @@
-﻿namespace Scynett.Domain.Abstractions;
+﻿namespace Sn33.Domain.Abstractions;
 
 public abstract class Entity<TId> : HasDomainEvents where TId : struct, IEquatable<TId>
 {
