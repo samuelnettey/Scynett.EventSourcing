@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scynett.Domain.Abstractions", "src\abstractions\Scynett.Domain.Abstractions\Scynett.Domain.Abstractions.csproj", "{337EA3E9-2891-4FDA-A516-572DABF89B6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337EA3E9-2891-4FDA-A516-572DABF89B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337EA3E9-2891-4FDA-A516-572DABF89B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337EA3E9-2891-4FDA-A516-572DABF89B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337EA3E9-2891-4FDA-A516-572DABF89B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD6A0229-A8AF-4B4A-8B2B-FD98F05E9E7A}
+	EndGlobalSection
+EndGlobal
